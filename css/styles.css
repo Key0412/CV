@@ -1,0 +1,32 @@
+body {
+  background-color: #ecf0f1;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h1 {
+  color: #34495e;
+}
+
+h3 {
+  color: #34495e;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: thick;
+  border-color: #f1c40f;
+  width: 10%;
+}
+
+p {
+
+}
+
+table {
+  border-spacing: 10px;
+}
+
+#klismam1 {
+  border-radius: 50% 50%;
+  width: 225px;
+}
